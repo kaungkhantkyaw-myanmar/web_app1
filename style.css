@@ -4,5 +4,10 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-color: blue;
+  display: flex;
+}
+
+p {
+  color: aqua;
 }
